@@ -4,7 +4,7 @@
 
 1. Lab 1 (100/100)
     * Abstract Data Type
-2. TP 1 (98/100)
+2. TP 1 (98.60/100)
     * Abstract Data Type
     * Dynamic Programming
     * Sorting
@@ -14,5 +14,5 @@
     * Binary Search Tree
 5. Lab 4 (100/100)
     * Binary Heap
-6. TP 2 (72/100)
+6. TP 2 (80.40/100)
     * Graph
